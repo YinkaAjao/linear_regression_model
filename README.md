@@ -16,7 +16,7 @@ This project implements ALL required regression models:
 While linear regression was our starting point, Random Forest achieved superior performance (93.7% R² vs 45.2%) due to football's non-linear valuation patterns.
 
 ## API Endpoint
-**Live API:** 
+**Live API:** https://scoutconnect-api.onrender.com
 
 ## Video Demo
 

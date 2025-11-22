@@ -16,12 +16,13 @@ This project implements ALL required regression models:
 While linear regression was our starting point, Random Forest achieved superior performance (93.7% R² vs 45.2%) due to football's non-linear valuation patterns.
 
 ## API Endpoint
-**Live API:** https://scoutconnect-api.onrender.com
+**Live API:** https://scoutconnect-api.onrender.com 
+**Swaggerr UI:** https://scoutconnect-api.onrender.com/docs 
 
 ## Video Demo
 
 ## Mobile App Setup
 1. Clone repository: `git clone https://github.com/YinkaAjao/linear_regression_model.git`
-2. Navigate: `cd linear_regression_model/summative/FlutterApp`
+2. Navigate: `cd linear_regression_model/summative/player_valuator`
 3. Install dependencies: `flutter pub get`
-4. Run app: `flutter run`# linear_regression_model
+4. Run app: `flutter run`
